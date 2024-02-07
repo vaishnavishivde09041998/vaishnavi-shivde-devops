@@ -3,3 +3,7 @@ git status
 
 git clone
 git remote -v 
+
+git pull --> pull changes from remote to local  for that particular branch
+git fetch --> fectch change from renote to local for all the branchS
+git push --> push local changes to remote
